@@ -1,7 +1,7 @@
 <h3 align="center">
     <img alt="Logo" title="#logo" width="300px" src="./.github/logo.svg">
     <br><br>
-    <b>Plataforma Desenvolvida para auxiliar professores e alunos!</b>  
+    <b> Plataforma de pontos de coleta para reciclagem!</b>  
     <br>
 </h3>
 
@@ -23,7 +23,7 @@
 	
 O <strong>Ecoleta</strong> é uma aplicação Web e Mobile para ajudar pessoas a encontrarem pontos de coleta para reciclagem.
 
-Essa aplicação foi construída na trilha <strong>Booster</strong> da <strong>Next Level Week</strong> distribuída pela [Rocketseat](https://rocketseat.com.br/). A ideia de criar uma aplicação voltada ao meio ambiente surgiu da coincidência da data do curso e a data da <strong>semana do meio ambiente</strong
+Essa aplicação foi construída na trilha <strong>Booster</strong> da <strong>Next Level Week</strong> distribuída pela [Rocketseat](https://rocketseat.com.br/). A ideia de criar uma aplicação voltada ao meio ambiente surgiu da coincidência da data do curso e a data da <strong>semana do meio ambiente</strong>
 
 <a id="documentacao"></a>
 
@@ -49,8 +49,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ## :heavy_check_mark: :computer: Resultado Web
 
 <h1 align="center">
-    <img alt="Web Home" src="./.github/index.png" width="600px">
-    <img alt="Pessoa cadastrada" src="./.github/pessoa.png" width="600px">
+    <img alt="Web Home" src="./.github/principal.png" width="600px">
+    <img alt="Pessoa cadastrada" src="./.github/busca.png" width="600px">
 
 </h1>
 
@@ -93,10 +93,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
   
   # Acessar o Servidor no Navegador
-  $ http://127.0.0.1:5500/
+  $ http://127.0.0.1:3000/
  
   # Porta de Acesso Liberado
-  $ 5500
+  $ 3000
 
 
 
